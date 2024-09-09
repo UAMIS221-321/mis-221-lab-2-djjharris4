@@ -1,0 +1,15 @@
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/bin/Debug/net8.0/mis-221-lab-2-djjharris4
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/bin/Debug/net8.0/mis-221-lab-2-djjharris4.deps.json
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/bin/Debug/net8.0/mis-221-lab-2-djjharris4.runtimeconfig.json
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/bin/Debug/net8.0/mis-221-lab-2-djjharris4.dll
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/bin/Debug/net8.0/mis-221-lab-2-djjharris4.pdb
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/obj/Debug/net8.0/mis-221-lab-2-djjharris4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/obj/Debug/net8.0/mis-221-lab-2-djjharris4.AssemblyInfoInputs.cache
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/obj/Debug/net8.0/mis-221-lab-2-djjharris4.AssemblyInfo.cs
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/obj/Debug/net8.0/mis-221-lab-2-djjharris4.csproj.CoreCompileInputs.cache
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/obj/Debug/net8.0/mis-221-lab-2-djjharris4.sourcelink.json
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/obj/Debug/net8.0/mis-221-lab-2-djjharris4.dll
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/obj/Debug/net8.0/refint/mis-221-lab-2-djjharris4.dll
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/obj/Debug/net8.0/mis-221-lab-2-djjharris4.pdb
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/obj/Debug/net8.0/mis-221-lab-2-djjharris4.genruntimeconfig.cache
+/Users/djharris/Documents/mis221/lab2/mis-221-lab-2-djjharris4/obj/Debug/net8.0/ref/mis-221-lab-2-djjharris4.dll
